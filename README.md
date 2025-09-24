@@ -1,34 +1,52 @@
 <details>
-  <summary><b>you wanna know Me!!!</b></summary>
+  <summary><b>Welcome hahahahaha!!!</b></summary>
 <h1 align="center">Hi 👋, I'm Rajaram Silwal</h1>
-<h3 align="center">A passionate to full stack developer.</h3>
-su
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=silwalrajaram09&label=Profile%20views&color=0e75b6&style=flat" alt="silwalrajaram09" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silwalrajaram09" alt="silwalrajaram09" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on academic project **job board**
-
-- 🌱 I’m currently learning **django laravel and other oprogramming language**
-
-- 📫 How to reach me **silwalrajaram2@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajaram-silwal-460241289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajaram-silwal-460241289/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25404877/rajaram-silwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25404877/rajaram-silwal" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/rajaram.silwal.90/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rajaram.silwal.90/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/silwalrajaram0rajaram_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="silwalrajaram0rajaram_09" height="30" width="40" /></a>
+<p align="center">
+  <em>🚀 Full Stack Developer | 💻 Lifelong Learner | 🌍 Open Source Enthusiast</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+### ✨ About Me 
+ 
+```javascript
+const rajaram = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "PHP", "Java", "Python"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Vue"],
+      css: ["Bootstrap", "Tailwind", "Sass"]
+    },
+    backEnd: {
+      php: ["Laravel"],
+      js: ["Node", "Express"],
+      python: ["Django"]
+    },
+    databases: ["MySQL", "MongoDB"],
+    tools: ["Git", "Docker", "VS Code"]
+  },
+  currentFocus: "Building something new",
+  learning: ["Advanced Django", "MERN Stack", "System Design"],
+  funFact: "I turn coffee ☕ into clean code 🚀"
+};
+``` 
+### 🌐 Connect with Me>
+  
+<p align="center">
+<a href="https://linkedin.com/in/rajaram-silwal-460241289" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+<a href="https://stackoverflow.com/users/25404877/rajaram-silwal" target="blank"><img src="https://img.shields.io/badge/-StackOverflow-orange?logo=stackoverflow&logoColor=white&style=for-the-badge" /></a>
+<a href="https://www.facebook.com/rajaram.silwal.90/" target="blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /></a>
+<a href="https://www.youtube.com/c/silwalrajaram0rajaram_09" target="blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silwalrajaram09&show_icons=true&locale=en&layout=compact" alt="silwalrajaram09" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silwalrajaram09&show_icons=true&locale=en" alt="silwalrajaram09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silwalrajaram09&" alt="silwalrajaram09" /></p>
+### 📊 Stats  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=silwalrajaram09&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=silwalrajaram09&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silwalrajaram09&layout=compact&theme=tokyonight" />
+</p>
+
 </details>
