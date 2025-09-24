@@ -8,27 +8,44 @@
 ---
 ### ✨ About Me 
  
-```javascript
-const rajaram = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "PHP", "Java", "Python"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Vue"],
-      css: ["Bootstrap", "Tailwind", "Sass"]
-    },
-    backEnd: {
-      php: ["Laravel"],
-      js: ["Node", "Express"],
-      python: ["Django"]
-    },
-    databases: ["MySQL", "MongoDB"],
-    tools: ["Git", "Docker", "VS Code"]
-  },
-  currentFocus: "Building something new",
-  learning: ["Advanced Django", "MERN Stack", "System Design"],
-  funFact: "I turn coffee ☕ into clean code 🚀"
-};
+```js
+public class RajaramSilwal {
+  constructor() {
+    this.name = "Rajaram Silwal";
+    this.pronouns = "he/him";
+    this.email = "silwalrajaram2@gmail.com";
+    this.currentFocus = "Building something new 🚀";
+    this.funFact = "I turn coffee ☕ into clean code 💻";
+  }
+
+  workExperience() {
+    return ["SoooooooooN"]; 
+  }
+
+  education() {
+    return [
+      { "2022-Present": "Bachelor of Computer Application (BCA)" },
+      { "2019-2021": "Higher Secondary Education (+2)" },
+      { "Up to 2019": "School Level Education" }
+    ];
+  }
+
+  skills() {
+    return {
+      languages: ["JavaScript", "PHP", "Java", "Python"],
+      frontEnd: ["React", "Vue", "Bootstrap", "Tailwind", "Sass"],
+      backEnd: ["Laravel", "Node.js", "Express", "Django"],
+      databases: ["MySQL", "MongoDB"],
+      tools: ["Git", "VS Code"]
+    };
+  }
+
+  nextUp() {
+    return ["Advanced Django", "MERN Stack", "System Design"];
+  }
+}
+
+
 ``` 
 ### 🌐 Connect with Me>
   
